@@ -1,4 +1,4 @@
-package PriorityQueue;
+package Heaps_PriorityQueue;
 import java.util.*;
 
 public class PQforObjects {

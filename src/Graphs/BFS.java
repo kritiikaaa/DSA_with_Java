@@ -56,7 +56,6 @@ public class BFS {
 
         while(!q.isEmpty()){
             int curr = q.remove();
-
             if(!visited[curr]){
                 System.out.print(curr+" ");
                 visited[curr] = true;
